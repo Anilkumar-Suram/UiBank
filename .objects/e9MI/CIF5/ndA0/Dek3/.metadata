@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Profile",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Dek3eqKTB02PuGaagmYHeA",
+  "Reference": "lLgQaMi3okSi_5AeiPSJrQ/Dek3eqKTB02PuGaagmYHeA",
+  "ParentRef": "lLgQaMi3okSi_5AeiPSJrQ/ndA0L12HqUGB9LZK1kPJCQ",
+  "Created": "2024-11-14T06:14:08.8538262Z",
+  "Updated": "2024-11-14T06:14:08.8538262Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

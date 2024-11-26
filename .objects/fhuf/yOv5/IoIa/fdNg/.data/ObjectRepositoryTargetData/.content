@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PrFriwSKdE-y2p7bzRZhPA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/register-account" DesignTimeRectangle="679, 545, 16, 16" DesignTimeScaleFactor="1" ElementType="CheckBox" FuzzySelectorArgument="&lt;webctrl id='agreeCheckbox' tag='INPUT' type='checkbox' class='form-check-input ng-untouched ng-pristine ng-valid' aaname=' I confirm that I agree to the Privacy Policy' /&gt;" Guid="8d629721-aa8c-40bd-ab3e-6b873911d86c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Register' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0c0131c0-caa6-43d7-bd5d-b7186eee67ef" CvTextArea="528, 570, 333, 19" CvTextArgument="I confirm that I agree to the Privacy Policy" CvType="Text" DesignTimeRectangle="530, 567, 329, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname=' I confirm that I agree to the ' tag='LABEL' type='' class='form-check-label text-center' check:innerText='I confirm that I agree to the Privacy Policy' /&gt;" Guid="a02e2055-4d5d-45bf-8ee1-3a29d171b169" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="498ada385243bc31caaaa879345d92ff.png" xmlns="">0IfSSscbwE0yfDi__u9RzZQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "I confirm that I agree …",
+  "Type": "Element",
+  "TaxonomyType": "Checkbox",
+  "Id": "fdNgQQi9q0iTK9uVuHpQZg",
+  "Reference": "lLgQaMi3okSi_5AeiPSJrQ/fdNgQQi9q0iTK9uVuHpQZg",
+  "ParentRef": "lLgQaMi3okSi_5AeiPSJrQ/IoIarboZ30KFBi7mvAVTXQ",
+  "Created": "2024-11-13T08:46:39.9223146Z",
+  "Updated": "2024-11-13T08:46:39.9223146Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

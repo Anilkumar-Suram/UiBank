@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Reusable Sequence in UiPath",
+  "Type": "App",
+  "Id": "e9MImi_Tx0KoIPrC_r7bWw",
+  "Reference": "lLgQaMi3okSi_5AeiPSJrQ/e9MImi_Tx0KoIPrC_r7bWw",
+  "Created": "2024-11-13T14:14:14.974766Z",
+  "Updated": "2024-11-13T14:14:14.974766Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Reusable Sequence in UiPath",
+  "Type": "Screen",
+  "Id": "ndA0L12HqUGB9LZK1kPJCQ",
+  "Reference": "lLgQaMi3okSi_5AeiPSJrQ/ndA0L12HqUGB9LZK1kPJCQ",
+  "ParentRef": "lLgQaMi3okSi_5AeiPSJrQ/CIF5titEnEGgXJksHx5R8w",
+  "Created": "2024-11-13T14:14:15.0595713Z",
+  "Updated": "2024-11-13T14:14:15.0595713Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

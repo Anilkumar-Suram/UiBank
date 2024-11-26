@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yGqv4Ze53kGCnlT63RKCHQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/register-account" CVScreenId="7fa0d7b5-4c87-489c-af05-c82d6ea67965" CvElementArea="543, 149, 279, 55" CvType="InputBox" DesignTimeRectangle="544, 149, 277, 54" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='email' tag='INPUT' type='text' class='form-control uibank-input ng-untouched ng-pristine ng-invalid' placeholder='Enter Email Address' aaname='Email Address*' /&gt;" Guid="b608a041-f743-4191-98df-a11f1492eff3" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Register' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="544, 130, 84, 19" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='uibank-label' aaname='Email Address*' check:innerText='Email Address*' /&gt;" Guid="b52baa81-fded-4c13-bd56-a34a3a65bbfb" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="3e7535f1572b1da6c789cdf254d90d49.png" xmlns="">0ezI1GES9aEe7lkq-0YmrUw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

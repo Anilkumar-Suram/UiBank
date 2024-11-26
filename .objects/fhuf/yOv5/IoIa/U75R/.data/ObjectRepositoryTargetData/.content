@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="D71RxBtwxkWNQ9V66YnX3A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/register-account" CVScreenId="9b69bb93-135b-4e83-bb00-31ebee5041b5" CvElementArea="694, 485, 244, 56" CvType="InputBox" DesignTimeRectangle="695, 486, 242, 54" DesignTimeScaleFactor="1" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl id='maritalStatus' tag='SELECT' type='text' class='form-control uibank-input select-color ng-pristine ng-invalid ng-touched' aaname='' /&gt;" Guid="c3a71755-94c3-40b0-a8a3-3debb3bb0b78" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Register' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9b69bb93-135b-4e83-bb00-31ebee5041b5" CvTextArea="693, 469, 84, 11" CvTextArgument="Marital Status*" CvType="Text" DesignTimeRectangle="695, 467, 82, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Marital Status*' tag='LABEL' type='' class='uibank-label' check:innerText='Marital Status*' /&gt;" Guid="d68331ed-846a-4cd0-bdb6-22aef1a03c21" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="095665645f1257e85bf8f8c9125f3870.png" xmlns="">0ne0OkAuRZ0GZrTWx4X_lfw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

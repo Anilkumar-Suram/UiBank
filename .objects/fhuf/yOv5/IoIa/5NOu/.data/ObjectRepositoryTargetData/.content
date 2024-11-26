@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3EAbVZa3NESvFUbtMXGERQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/welcome" DesignTimeRectangle="427, 439, 95, 96" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl type='' class='col-md-6 col-sm-6 text-right' tag='DIV' aaname='' check:innerText='Register For Account' /&gt;" Guid="22c65a48-8a6d-4ace-a963-1d4f6f722c9a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Welcome' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="e9f200f997af44f632e9279d3f8e4702.png" xmlns="">0bG9au9RiaUa7_tI_IuuNpQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

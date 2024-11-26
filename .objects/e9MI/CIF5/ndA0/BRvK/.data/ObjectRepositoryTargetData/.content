@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="t8tWHST5DE-VOoPjR8JyUQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/accounts" CVScreenId="e660cdc4-1c68-4d84-a84d-e963fd571df6" CvTextArea="946, 182, 42, 22" CvTextArgument="Help" CvType="Text" DesignTimeRectangle="939, 170, 56, 43" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Help' tag='A' type='' class='nav-link text-dark' check:innerText='Help' /&gt;" Guid="2e80fbc0-a7cd-46e6-9a91-986b2bb9dd66" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank - Accounts' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="694d4694529138ad00075b1952aa26f2.png" xmlns="">0OpKcYUzsekKbKMmj7FnHow</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

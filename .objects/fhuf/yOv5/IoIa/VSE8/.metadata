@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Welcome To The UiBank F…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "VSE827Cls0GuYdcX06cIuw",
+  "Reference": "lLgQaMi3okSi_5AeiPSJrQ/VSE827Cls0GuYdcX06cIuw",
+  "ParentRef": "lLgQaMi3okSi_5AeiPSJrQ/IoIarboZ30KFBi7mvAVTXQ",
+  "Created": "2024-11-13T09:07:11.4734565Z",
+  "Updated": "2024-11-13T09:07:11.4734565Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

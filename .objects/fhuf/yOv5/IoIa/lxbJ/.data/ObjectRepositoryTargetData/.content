@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="P6p2-sRI9kuUHDCDcXHo3A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/register-account/success/mike_johnson20" DesignTimeRectangle="256, 167, 853, 473" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl type='' tag='DIV' class='card shadow-sm' aaname='' check:innerText='Welcome To The UiBank Family!&amp;#xA;Before you can apply for an account we need you to verify your email!' /&gt;" Guid="40be31e1-04e0-47c6-95ed-84c1dbb015b0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Register success' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3575da0cf21b1e3c46a95c940ae54906.png" xmlns="">01u29sv3-zkqJvuAbe4RbxQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TakeScreenshot</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

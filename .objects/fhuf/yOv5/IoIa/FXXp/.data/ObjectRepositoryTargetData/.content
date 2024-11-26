@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="gfVkqPGafUS0Vyaioen82Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/register-account" CVScreenId="ff593580-00fb-4bd5-8ae2-ccc897209353" CvElementArea="427, 583, 243, 56" CvType="InputBox" DesignTimeRectangle="428, 583, 243, 55" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='numberOfDependents' tag='INPUT' type='number' class='form-control uibank-input ng-valid ng-dirty ng-touched' placeholder='How many dependents do you claim?' aaname='' /&gt;" Guid="e44fc99e-77d2-4e8d-87fc-5119f17a0ac6" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Register' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ff593580-00fb-4bd5-8ae2-ccc897209353" CvTextArea="426, 566, 133, 13" CvTextArgument="Number of Dependents" CvType="Text" DesignTimeRectangle="428, 564, 130, 19" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Number of Dependents' tag='LABEL' type='' class='uibank-label' check:innerText='Number of Dependents' /&gt;" Guid="90074477-6f26-46a4-8afe-104564edce4f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="895ec23d3a282e1606dd0cbe7da4f89d.png" xmlns="">0lEaAaoVC5k-0uDNIkp3cTA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

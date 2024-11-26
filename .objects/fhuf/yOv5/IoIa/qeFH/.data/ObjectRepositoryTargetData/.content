@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EnDpfakYskKLrwKlNbjYSw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/register-account" CVScreenId="7fa0d7b5-4c87-489c-af05-c82d6ea67965" CvElementArea="427, 590, 243, 56" CvType="InputBox" DesignTimeRectangle="428, 590, 243, 55" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='middleName' tag='INPUT' type='text' class='form-control uibank-input ng-untouched ng-pristine ng-valid' placeholder='Enter your middle name or initial' aaname='Middle Name Or Initial' /&gt;" Guid="3f87f8e3-6943-4113-b3ca-b95900c2c93c" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Register' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7fa0d7b5-4c87-489c-af05-c82d6ea67965" CvTextArea="426, 572, 125, 12" CvTextArgument="Middle Name Or Initial" CvType="Text" DesignTimeRectangle="428, 571, 123, 19" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Middle Name Or Initial' tag='LABEL' type='' class='uibank-label' check:innerText='Middle Name Or Initial' /&gt;" Guid="80d8cddd-430b-4a1f-8e04-169239215efe" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e2069fb966cbc6f288d6fe829eec0d6b.png" xmlns="">0eZzfgsPILEWbno7FcczROA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

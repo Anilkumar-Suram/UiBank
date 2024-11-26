@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2bmcDK9bP0igTTF1tl4d3A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/register-account" CVScreenId="0c0131c0-caa6-43d7-bd5d-b7186eee67ef" CvElementArea="524, 625, 319, 49" CvTextArea="647, 640, 71, 20" CvTextArgument="Register" CvType="Button" DesignTimeRectangle="404, 593, 557, 82" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl type='' class='row justify-content-center' tag='DIV' aaname='' check:innerText='Register' /&gt;" Guid="77f82b8b-ef2d-41c2-9dd4-4624b5762e0f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Register' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3e33b5e18a10744c8a56e64c6be0f651.png" xmlns="">0NKJuYcmnv02PjlkHBkvOKA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

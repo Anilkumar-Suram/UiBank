@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tmMCgsqnkEuTIBtWQxLkfA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/register-account/success/mike_johnson20" DesignTimeRectangle="443, 283, 479, 77" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H2' type='' class='' /&gt;" Guid="6aeef036-4da7-4536-9ab0-f7cb85f790c4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Register success' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="500f31b274ed0fec5f8b25d218bc5ef9.png" xmlns="">0BPEJ7QEDaEGX6C8Py4x1RQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

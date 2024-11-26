@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Register",
+  "Type": "Element",
+  "Id": "FvrsMx0lGU-Tggbe1GkM_A",
+  "Reference": "lLgQaMi3okSi_5AeiPSJrQ/FvrsMx0lGU-Tggbe1GkM_A",
+  "ParentRef": "lLgQaMi3okSi_5AeiPSJrQ/IoIarboZ30KFBi7mvAVTXQ",
+  "Created": "2024-11-13T08:47:17.2049083Z",
+  "Updated": "2024-11-13T08:47:17.2049083Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

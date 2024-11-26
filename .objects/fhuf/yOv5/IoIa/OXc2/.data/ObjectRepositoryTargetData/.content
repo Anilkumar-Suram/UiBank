@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4FDL7Fwsl02BwUWLnsPDwQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="uibank.uipath.com/register-account" CVScreenId="e36efbbf-8259-4689-b820-13022f4b01f6" CvElementArea="428, 486, 243, 54" CvType="InputBox" DesignTimeRectangle="428, 486, 243, 54" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='age' tag='INPUT' type='text' class='form-control uibank-input ng-pristine ng-valid ng-touched' placeholder='Enter date in MM/DD/YY format' aaname='Date of birth (MM/DD/YY)' /&gt;" Guid="75bb5190-0492-4d23-a27b-5a373e76ca72" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='UiBank-Register' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="e36efbbf-8259-4689-b820-13022f4b01f6" CvTextArea="426, 466, 143, 16" CvTextArgument="Date of birth (MM/DD/YY)" CvType="Text" DesignTimeRectangle="428, 467, 141, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Date of birth ' tag='LABEL' type='' class='uibank-label' check:innerText='Date of birth (MM/DD/YY)' /&gt;" Guid="22cccd20-6876-4aa6-8267-86e7fd1b2deb" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="30565f06818f81a1cdfc4363cc5c654e.png" xmlns="">0sBp_XkA1NU2Oy3ajhebftQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

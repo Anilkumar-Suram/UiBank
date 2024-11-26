@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Marital Status",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "U75RD-KFA0287shTcNQ7_A",
+  "Reference": "lLgQaMi3okSi_5AeiPSJrQ/U75RD-KFA0287shTcNQ7_A",
+  "ParentRef": "lLgQaMi3okSi_5AeiPSJrQ/IoIarboZ30KFBi7mvAVTXQ",
+  "Created": "2024-11-13T08:44:57.4940966Z",
+  "Updated": "2024-11-13T08:44:57.4940966Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
